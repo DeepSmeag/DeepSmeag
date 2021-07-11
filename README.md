@@ -8,4 +8,4 @@
 DeepSmeag/DeepSmeag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepSmeag&show_icons=true&count_private=true&theme=highcontrast)](https://github.com/DeepSmeag)
+<div align="center">[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepSmeag&show_icons=true&count_private=true&theme=highcontrast)](https://github.com/DeepSmeag)</div>
