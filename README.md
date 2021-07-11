@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepSmeag)](https://github.com/DeepSmeag)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepSmeag&layout=compact&theme=radical)](https://github.com/DeepSmeag)
 
   
   
