@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeepSmeag, a future student starting university in the fall of 2021.
+- 👋 Hi, I’m @DeepSmeag, a Computer Science student since the fall of 2021.
 - 👀 I’m mainly interested in Machine Learning and its various subdomains, but anything software can catch my eye.
 - 🌱 I’m currently looking to widen my knowledge and learn a lot more about everything CS.
 - 💞️ I want to bring value to others by connecting theory and practice. From idea to project and then out in the open, my goal is to think up useful software and bring it to the world.
