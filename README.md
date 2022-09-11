@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeepSmeag, a Computer Science student since the fall of 2021.
-- 👀 I’m mainly interested in Machine Learning and its various subdomains, but anything software can catch my eye.
+- 👀 I’m mainly interested in Machine Learning + Data Science, but anything software can catch my eye.
 - 💞️ My mission is to connect people and information.
 <!--- 📫---> 
 - ⭐ In my free time: Music + daydreaming, searching for tools to ease my work, building my typing speed, filling my reading list with articles and not reading all of them.
