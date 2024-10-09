@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @DeepSmeag, a Computer Science student since the fall of 2021.
-- 👀 Big fan of ML/AI advancements
+- 👋 Hi, I’m @DeepSmeag, a Fullstack developer with an eye for entrepreneurship.
+- 👀 Big fan of ML/AI advancements, but bigger fan of building useful products.
 - 💞️ My mission is to connect people and information.
 <!--- 📫---> 
-- ⭐ In my free time: Music + daydreaming, playing the ocasional game with friends & reading articles/ideas to learn new stuff.
 <!---
 DeepSmeag/DeepSmeag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
