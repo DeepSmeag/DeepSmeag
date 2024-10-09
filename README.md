@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeepSmeag, a Fullstack developer with an eye for entrepreneurship.
+- 👋 Hi, I’m @DeepSmeag, a Fullstack developer with an eye for the business use-case.
 - ⚡ Right now I'm fastest with NextJS w/ TRPC (t3 stack) and NestJS
 - 👀 Big fan of ML/AI advancements, but bigger fan of building useful products.
 - 💞️ My mission is to connect people and information.
