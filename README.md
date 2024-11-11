@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeepSmeag, a CS grad focused on web development (fullstack/backend) with an eye on the business use-case
+- 👋 Hi, I’m @DeepSmeag, a CS grad focused on web development (fullstack/backend) with an eye on the business use-case.
 - 👀 Big fan of ML/AI advancements, but bigger fan of building useful products.
 - 💞️ My mission is to connect people with the right tools.
 <!--- 📫---> 
